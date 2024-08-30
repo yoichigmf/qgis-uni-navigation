@@ -13,16 +13,16 @@
             "type": "link",
             "settings": {
               "name": "Overview",
-              "href": "/project/overview",
-              "activeTest": "/project/overview"
+              "href": "/ja/project/overview",
+              "activeTest": "/ja/project/overview"
             }
           },
           {
             "type": "link",
             "settings": {
               "name": "Case studies",
-              "href": "/project/case-studies",
-              "activeTest": "/project/case-studies"
+              "href": "/ja/project/case-studies",
+              "activeTest": "/ja/project/case-studies"
             }
           },
           {
@@ -52,8 +52,8 @@
             "type": "link",
             "settings": {
               "name": "Get involved",
-              "href": "/community/involve",
-              "activeTest": "/community/involve"
+              "href": "/ja/community/involve",
+              "activeTest": "/ja/community/involve"
             }
           },
           {
