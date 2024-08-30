@@ -7,12 +7,12 @@
     {
       "type": "menu",
       "settings": {
-        "name": "Project",
+        "name": "プロジェクト",
         "children": [
           {
             "type": "link",
             "settings": {
-              "name": "Overview",
+              "name": "概要",
               "href": "/ja/project/overview",
               "activeTest": "/ja/project/overview"
             }
@@ -20,7 +20,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Case studies",
+              "name": "ケーススタディ",
               "href": "/ja/project/case-studies",
               "activeTest": "/ja/project/case-studies"
             }
@@ -28,16 +28,16 @@
           {
             "type": "link",
             "settings": {
-              "name": "Plugins",
+              "name": "プラグイン",
               "href": "https://plugins.qgis.org/"
             }
           },
           {
             "type": "link",
             "settings": {
-              "name": "Visual Changelogs",
-              "href": "/project/visual-changelogs",
-              "activeTest": "/project/visual-changelogs"
+              "name": "ビジュアルチェンジログ",
+              "href": "/ja/project/visual-changelogs",
+              "activeTest": "/ja/project/visual-changelogs"
             }
           }
         ]
@@ -46,7 +46,7 @@
     {
       "type": "menu",
       "settings": {
-        "name": "Community",
+        "name": "コミュニティ",
         "children": [
           {
             "type": "link",
@@ -60,48 +60,48 @@
             "type": "link",
             "settings": {
               "name": "Certification Programme",
-              "href": "/community/certification",
-              "activeTest": "/community/certification"
+              "href": "/ja/community/certification",
+              "activeTest": "/ja/community/certification"
             }
           },
           {
             "type": "link",
             "settings": {
-              "name": "QGIS Foundation",
-              "href": "/community/foundation",
-              "activeTest": "/community/foundation"
+              "name": "QGIS 財団",
+              "href": "/ja/community/foundation",
+              "activeTest": "/ja/community/foundation"
             }
           },
           {
             "type": "link",
             "settings": {
               "name": "Project Organisation",
-              "href": "/community/organisation",
-              "activeTest": "/community/organisation"
+              "href": "/ja/community/organisation",
+              "activeTest": "/ja/community/organisation"
             }
           },
           {
             "type": "link",
             "settings": {
               "name": "Local User Groups",
-              "href": "/community/groups",
-              "activeTest": "/community/groups"
+              "href": "/ja/community/groups",
+              "activeTest": "/ja/community/groups"
             }
           },
           {
             "type": "link",
             "settings": {
               "name": "Sustaining membership program",
-              "href": "/funding/membership/",
-              "activeTest": "/funding/membership/"
+              "href": "/ja/funding/membership/",
+              "activeTest": "/ja/funding/membership/"
             }
           },
           {
             "type": "link",
             "settings": {
               "name": "Sustaining members",
-              "href": "/funding/membership/members",
-              "activeTest": "/funding/membership/members"
+              "href": "/ja/funding/membership/members",
+              "activeTest": "/ja/funding/membership/members"
             }
           },
           {
@@ -117,38 +117,38 @@
     {
       "type": "menu",
       "settings": {
-        "name": "Resources",
+        "name": "リソース",
         "children": [
           {
             "type": "link",
             "settings": {
-              "name": "Documentation",
-              "href": "/resources/hub",
-              "activeTest": "/resources/hub"
+              "name": "文書",
+              "href": "/ja/resources/hub",
+              "activeTest": "/ja/resources/hub"
             }
           },
           {
             "type": "link",
             "settings": {
-              "name": "Installation Guide",
-              "href": "/resources/installation-guide",
-              "activeTest": "/resources/installation-guide"
+              "name": "インストレーションガイド",
+              "href": "/ja/resources/installation-guide",
+              "activeTest": "/ja/resources/installation-guide"
             }
           },
           {
             "type": "link",
             "settings": {
-              "name": "Roadmap",
-              "href": "/resources/roadmap",
-              "activeTest": "/resources/roadmap"
+              "name": "ロードマップ",
+              "href": "/ja/resources/roadmap",
+              "activeTest": "/ja/resources/roadmap"
             }
           },
           {
             "type": "link",
             "settings": {
-              "name": "Reports",
-              "href": "/resources/reports",
-              "activeTest": "/resources/reports"
+              "name": "レポート",
+              "href": "/ja/resources/reports",
+              "activeTest": "/ja/resources/reports"
             }
           },
           {
