@@ -51,7 +51,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Get involved",
+              "name": "参加する",
               "href": "/ja/community/involve",
               "activeTest": "/ja/community/involve"
             }
@@ -59,7 +59,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Certification Programme",
+              "name": "認定プログラム",
               "href": "/ja/community/certification",
               "activeTest": "/ja/community/certification"
             }
@@ -75,7 +75,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Project Organisation",
+              "name": "プロジェクト組織",
               "href": "/ja/community/organisation",
               "activeTest": "/ja/community/organisation"
             }
@@ -83,7 +83,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Local User Groups",
+              "name": "ローカルユーザーグループ",
               "href": "/ja/community/groups",
               "activeTest": "/ja/community/groups"
             }
@@ -91,7 +91,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Sustaining membership program",
+              "name": "継続会員プログラム",
               "href": "/ja/funding/membership/",
               "activeTest": "/ja/funding/membership/"
             }
@@ -99,7 +99,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Sustaining members",
+              "name": "継続会員",
               "href": "/ja/funding/membership/members",
               "activeTest": "/ja/funding/membership/members"
             }
@@ -107,7 +107,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Members Blog",
+              "name": "メンバーブログ",
               "href": "https://plugins.qgis.org/planet/"
             }
           }
@@ -154,25 +154,25 @@
           {
             "type": "link",
             "settings": {
-              "name": "Books",
-              "href": "/resources/books",
-              "activeTest": "/resources/books"
+              "name": "書籍",
+              "href": "/ja/resources/books",
+              "activeTest": "/ja/resources/books"
             }
           },
           {
             "type": "link",
             "settings": {
-              "name": "Support",
-              "href": "/resources/support",
-              "activeTest": "/resources/support"
+              "name": "サポート",
+              "href": "/ja/resources/support",
+              "activeTest": "/ja/resources/support"
             }
           },
           {
             "type": "link",
             "settings": {
-              "name": "Archive",
-              "href": "/archive",
-              "activeTest": "/archive"
+              "name": "アーカイブ",
+              "href": "/ja/archive",
+              "activeTest": "/ja/archive"
             }
           },
           {
@@ -192,7 +192,7 @@
           {
             "type": "link",
             "settings": {
-              "name": "Blog",
+              "name": "ブログ",
               "href": "https://blog.qgis.org"
             }
           }
@@ -202,8 +202,8 @@
     {
       "type": "button",
       "settings": {
-        "name": "Download",
-        "href": "/download",
+        "name": "ダウンロード",
+        "href": "/ja/download",
         "class": "basic",
         "icon": "https://qgis.github.io/qgis-uni-navigation/download.svg",
         "activeTest": "/download"
@@ -212,8 +212,8 @@
     {
       "type": "button",
       "settings": {
-        "name": "Donate",
-        "href": "/funding/donate",
+        "name": "寄付",
+        "href": "/ja/funding/donate",
         "class": "primary",
         "icon": "https://qgis.github.io/qgis-uni-navigation//donate.svg",
         "activeTest": "/funding/donate"
@@ -222,8 +222,8 @@
     {
       "type": "button",
       "settings": {
-        "name": "Goodies",
-        "href": "/goodies",
+        "name": "グッズ",
+        "href": "/ja/goodies",
         "class": "basic icon-button",
         "icon": "https://qgis.github.io/qgis-uni-navigation//goodies.svg",
         "activeTest": "/goodies"
